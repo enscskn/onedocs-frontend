@@ -63,7 +63,7 @@ function App() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-3">
               <div className="bg-blue-600 p-2 rounded-lg">
-                <img src="./public/onedocsturkiye_logo.jpg" alt="OneDocs Logo" className="w-8 h-8 object-contain" />
+                <img src="https://i.hizliresim.com/ko34gm6.jpg" alt="OneDocs Logo" className="w-8 h-8 object-contain" />
               </div>
               <div>
                 <h1 className="text-xl font-bold text-gray-800">Onedocs</h1>
