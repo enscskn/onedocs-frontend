@@ -12,9 +12,7 @@ OneDocs, modern ve şık bir arayüze sahip, Supabase tabanlı görev, belge ve 
 - Bildirim, istatistik ve ayarlar için şık modal ve toastlar
 - Supabase ile tam entegre, gerçek zamanlı veri yönetimi
 
-## Ekran Görüntüsü
-
-> ![OneDocs Logo](./public/onedocsturkiye_logo.jpg)
+> ![OneDocs Logo](./public/onedocsturkiye_cover.jpg)
 
 ## Kurulum
 
