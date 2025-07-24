@@ -63,11 +63,3 @@ OneDocs, modern ve şık bir arayüze sahip, Supabase tabanlı görev, belge ve 
 ├── README.md
 └── ...
 ```
-
-## Katkı Sağlama
-
-Katkıda bulunmak isterseniz lütfen bir fork oluşturun ve pull request gönderin. Hataları veya önerileri Issues kısmından bildirebilirsiniz.
-
-## Lisans
-
-MIT 
